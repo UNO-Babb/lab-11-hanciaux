@@ -1,0 +1,15 @@
+I changed the time it takes for a shopper to collect an item from just 30 seconds to a time between 20 seconds and a minute. 
+I also changed the time between shoppers from one arriving every 2 minutes to one arriving every 0 to 5.
+I changed the number of items a checker can ring in from 10 per minute to between 8 and 12.
+I changed the number of cashiers from 5 to 2.
+
+I changed the time it takes to shop, as different items can take longer to collect depending on where they are and the aptitude of the shopper.
+I altered the time between shoppers arriving because some can arrive simultateously while it may be a greater amount of time between others.
+I changed the speed that checkers can scan items as some larger items like water and what not take longer to ring in as they must be physically scanned,
+while other small items can be scanned quickly and duplicate items can be scanned repeatedly, increasing the speed.
+I changed the number of checkers so the idle time wouldn't be so insanely high and the company isn't needlessly hemorraging money on useless employees.
+
+Using the random values for some of the variables created more variance between runs.  This is to be expected, as there is more that can change when
+there are more random events.  The more randomness that is added, the further it is from just a mathematical equation and the closer it is to 
+'reality', even though it is still quite far from the real world (as the customers would theoretically be willing to wait for mulitple days or even 
+years at their carts without leaving).
